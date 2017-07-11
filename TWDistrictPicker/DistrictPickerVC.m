@@ -7,7 +7,6 @@
 //
 
 #import "DistrictPickerVC.h"
-#import "AppDelegate.h"
 
 
 @implementation DistrictPickerVC
