@@ -150,7 +150,7 @@
                          completion:^(BOOL finished) {
                              self.view.hidden = YES;
                              [self.view removeFromSuperview];
-                             if ([_delegate respondsToSelector:@selector(districtPicker:didFinishWithDate:)]) {
+                             if ([_delegate respondsToSelector:@selector(districtPicker:didFinishWithDistrict:)]) {
                                  
                                  NSString *districtStr = @"";
                                  if (_locate.district.length != 0) {

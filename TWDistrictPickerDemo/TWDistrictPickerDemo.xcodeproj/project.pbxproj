@@ -305,6 +305,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = BTM4Y3L66C;
 				INFOPLIST_FILE = TWDistrictPickerDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.1001nights.TWDistrictPickerDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -317,6 +318,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = BTM4Y3L66C;
 				INFOPLIST_FILE = TWDistrictPickerDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.1001nights.TWDistrictPickerDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -342,6 +344,7 @@
 				6CCC66EB1F14DF8100929B20 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
