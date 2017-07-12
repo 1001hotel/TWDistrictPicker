@@ -9,12 +9,12 @@
 Pod::Spec.new do |s|
 s.name         = "TWDistrictPicker"
 
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
 
-  s.summary      = "A camera picker used on iOS."
+  s.summary      = "A district picker used on iOS."
 
   s.description  = <<-DESC
-                   It is a camera picker used on iOS, which implement by Objective-C.
+                   It is a district picker used on iOS, which implement by Objective-C.
                    DESC
 
   s.homepage     = "https://github.com/1001hotel/TWDistrictPicker"
